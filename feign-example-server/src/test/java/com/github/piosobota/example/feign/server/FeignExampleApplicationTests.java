@@ -1,4 +1,4 @@
-package com.github.piosobota.feignexample;
+package com.github.piosobota.example.feign.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.github.piosobota.feignexampleclient;
+package com.github.piosobota.example.feign.client;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

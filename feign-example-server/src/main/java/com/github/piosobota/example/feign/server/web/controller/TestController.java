@@ -1,4 +1,4 @@
-package com.github.piosobota.feignexample.web.controller;
+package com.github.piosobota.example.feign.server.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

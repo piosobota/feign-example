@@ -21,6 +21,7 @@
     </parent>
 
     <modules>
+        <module>feign-example-api</module>
         <module>feign-example-client</module>
         <module>feign-example-server</module>
     </modules>
