@@ -10,14 +10,16 @@
 	</parent>
 
 	<groupId>com.github.piosobota</groupId>
-	<artifactId>feign-example-client</artifactId>
+	<artifactId>feign-example-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
+	<name>feign-example-server</name>
+	<description>Feign server example</description>
 
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 	</dependencies>
-
 </project>
